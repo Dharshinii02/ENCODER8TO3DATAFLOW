@@ -1,7 +1,5 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
 
-# Developed by: Dharshini J
-# RegisterNumber:212224240036
 
 **AIM:**
 
@@ -63,6 +61,8 @@ endmodule
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2025-05-07 151734](https://github.com/user-attachments/assets/3f03dc13-5f0e-4db6-a609-c849d1f2adf4)
+# Developed by: Dharshini J
+# RegisterNumber:212224240036
 
 
 **RESULTS**
